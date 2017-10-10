@@ -6,7 +6,7 @@ class RegisterCarController {
     static scope = "session"
     static defaultAction = "initialize"
 
-    def initilize() {
+    def initialize() {
         render view: "/registerCar/register"
     }
 

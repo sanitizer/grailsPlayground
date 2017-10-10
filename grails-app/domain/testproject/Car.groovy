@@ -7,7 +7,7 @@ class Car {
 
     String carName
     String carBrand
-    String producitonCountry
+    String productionCountry
     String productionYear
 
 }
